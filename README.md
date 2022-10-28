@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I am currently learning full stack development. I acquire the skills of : HTML, CSS, javascript,typescript, Nodejs, Json, Api ,heroku, Bootstrap, Postman, C language, and Arduino
 
 
